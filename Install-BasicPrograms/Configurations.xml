@@ -1,6 +1,6 @@
 <Configuration>
-  <Add OfficeClientEdition="64" Channel="{CHANNEL}" AllowCdnFallback="True" OfficeMgmtCOM="False">
-    <Product ID="{PRODUCTID}">
+  <Add OfficeClientEdition="64" Channel="Current" AllowCdnFallback="True" OfficeMgmtCOM="False">
+    <Product ID="O365ProPlusRetail">
       <Language ID="MatchOS" Fallback="en-us" />
     </Product>
   </Add>
