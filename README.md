@@ -35,7 +35,7 @@ If you want to contribute by adding your own scripts, feel free to open a pull r
 - ``I hope that helped``
 
 ## Running Powershell Scripts:
-- ``Type (Windows Button)`` ![window](https://github.com/user-attachments/assets/c5ca0011-69e3-409d-b4ed-32fe0a2c4339)
+- ``Type (Windows Button)`` ⊞
 - ``Search "Powershell"``
 - ``Click in "Run as Administrator"``
 - ``Type`` PS C:\Windows\system32> Set-ExecutionPolicy Unrestricted
